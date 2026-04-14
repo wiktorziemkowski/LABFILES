@@ -23,7 +23,7 @@
 #define PIN_TXD 20
 #define PIN_RXD 22
 #define MAX_LENGTH 50
-//test comment
+// test branch test
 nrfx_uarte_t instance = NRFX_UARTE_INSTANCE(0);
 
 void uarte_write(char *data, int length) // skickar data till UART-Driver --> skickar tillbaka till pc
