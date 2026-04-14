@@ -1,0 +1,1968 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o (exit)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o)
+                              H:/Lab1/nrfx/src/sample/../../build/main.c.o (srand)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+                              H:/Lab1/nrfx/src/sample/../../build/main.c.o (sprintf)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (__sread)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o (memset)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o) (_close_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o) (errno)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o) (_impure_ptr)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o) (_lseek_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o) (_read_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o) (_write_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o (__libc_init_array)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-strlen.o)
+                              H:/Lab1/nrfx/src/sample/../../build/main.c.o (strlen)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o) (__assert_func)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o) (_free_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-malloc.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o) (malloc)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (_malloc_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o) (__malloc_lock)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o) (_svfprintf_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (_printf_i)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o) (_fflush_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fprintf.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o) (fiprintf)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (memmove)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (memchr)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (memcpy)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-abort.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o) (abort)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o) (_realloc_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fprintf.o) (_vfprintf_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o) (__sfvwrite_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wbuf.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o) (__swbuf_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wsetup.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o) (__swsetup_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-abort.o) (raise)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o) (_kill_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o) (_malloc_usable_size_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wsetup.o) (__smakebuf_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fstatr.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o) (_fstat_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-isattyr.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o) (_isatty_r)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(close.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o) (_close)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(fstat.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fstatr.o) (_fstat)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(getpid.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o) (_getpid)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(isatty.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-isattyr.o) (_isatty)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(kill.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o) (_kill)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(lseek.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o) (_lseek)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(read.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o) (_read)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(write.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o) (_write)
+C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+                              C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o
+ .data          0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+ .bss           0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text          0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .data          0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .bss           0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_1
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_2
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_3
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_4
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_5
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_6
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_7
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_8
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_9
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_10
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_11
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_12
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_13
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_14
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_15
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_16
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_18
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_19
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_20
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_21
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_22
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_23
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_26
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_27
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_28
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_29
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_30
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_31
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_32
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_33
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_34
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_36
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_37
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_43
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_44
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_45
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_47
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_50
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_51
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_52
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_53
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_54
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_57
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_58
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_59
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_62
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_65
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_66
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_67
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_70
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_71
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_72
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_73
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_74
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_75
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_76
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_77
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_79
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_80
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_81
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_82
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_83
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_84
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_85
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_86
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_87
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_90
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_91
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_93
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_95
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_99
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_103
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_105
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_106
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_107
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_109
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_110
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_112
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_113
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_114
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_115
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_116
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_117
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_119
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_121
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_122
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_133
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_134
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_135
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_136
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_137
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_138
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_152
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_153
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_154
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_157
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_158
+                0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_161
+                0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .data.SystemCoreClock
+                0x00000000        0x4 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x2c H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.SystemLockFICRNS
+                0x00000000       0x50 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text          0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .data          0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .bss           0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_shorts_enable
+                0x00000000       0x26 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_shorts_disable
+                0x00000000       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_int_disable
+                0x00000000       0x1e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_txrx_pins_disconnect
+                0x00000000       0x1e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_tx_pin_get
+                0x00000000       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_rx_pin_get
+                0x00000000       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_rts_pin_get
+                0x00000000       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_cts_pin_get
+                0x00000000       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_hwfc_pins_disconnect
+                0x00000000       0x1e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_tx_amount_get
+                0x00000000       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_rx_buffer_set
+                0x00000000       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_int_uninit
+                0x00000000       0x14 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_tx_abort
+                0x00000000       0x50 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_rx_start
+                0x00000000       0x48 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_pins_get
+                0x00000000       0x4a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_pins_disconnect
+                0x00000000       0x20 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_event_check
+                0x00000000       0x2c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_shorts_enable
+                0x00000000       0x1e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_shorts_disable
+                0x00000000       0x1e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_int_enable
+                0x00000000       0x1e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_int_disable
+                0x00000000       0x1e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_tx_amount_get
+                0x00000000       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_rx_buffer_set
+                0x00000000       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_rx_amount_get
+                0x00000000       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_gpio_cfg_default
+                0x00000000       0x24 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_gpio_cfg_default
+                0x00000000       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.pins_to_default
+                0x00000000       0xb0 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfx_uarte_reconfigure
+                0x00000000       0x84 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfx_uarte_uninit
+                0x00000000       0x90 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfx_uarte_rx
+                0x00000000      0x194 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfx_uarte_rx_ready
+                0x00000000       0x34 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfx_uarte_errorsrc_get
+                0x00000000       0x2a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.rx_done_event
+                0x00000000       0x30 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.tx_done_event
+                0x00000000       0x36 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfx_uarte_tx_abort
+                0x00000000       0x4c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfx_uarte_rx_abort
+                0x00000000       0x60 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.irq_handler
+                0x00000000      0x164 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfx_uarte_0_irq_handler
+                0x00000000       0x18 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000      0xaf0 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x56 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x51 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000      0x103 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x6a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000      0x1df H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x2e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x50 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x1c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x29 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0xfb H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000     0x1685 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x5e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000      0x7ba H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000    0x1248c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x52 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x12 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000       0x6a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00000000      0x44e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .group         0x00000000        0xc H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text          0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .data          0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .bss           0x00000000        0x0 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0xaf0 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x1c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0x5f9 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x22 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x56 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x51 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0x103 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x6a H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0x1df H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0x189 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x22 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x7b H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x2a H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x3c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x34 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0x38c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x16 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x4a H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x34 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x58 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0x1de H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x10 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x3c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x7c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x17 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0xee H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x2e H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x50 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x1c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x29 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0xfb H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000     0x1685 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x5e H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0x7ba H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000    0x1248c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x52 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x12 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x6a H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0xa39 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x64 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0x44e H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000      0x10f H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0xf7 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x34 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x4c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x16 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x7b H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x22 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00000000       0x17 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .text._sprintf_r
+                0x00000000       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0xac C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .ARM.extab     0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o)
+ .text.__assert
+                0x00000000        0xa C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .text.free     0x00000000       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text.__ssprint_r
+                0x00000000       0xfa C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fprintf.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fprintf.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fprintf.o)
+ .text._fprintf_r
+                0x00000000       0x1a C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fprintf.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-abort.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-abort.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-abort.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x00000000       0x1a C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x00000000       0x14 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x00000000      0x298 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .debug_frame   0x00000000       0x3c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .ARM.attributes
+                0x00000000       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fvwrite.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .text.__swbuf  0x00000000       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .text._init_signal_r
+                0x00000000       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .text._signal_r
+                0x00000000       0x30 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .text.__sigtramp_r
+                0x00000000       0x48 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .text.signal   0x00000000       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .text._init_signal
+                0x00000000        0xc C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .text.__sigtramp
+                0x00000000       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(close.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(close.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(close.o)
+ .gnu.warning._close
+                0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(close.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(fstat.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(fstat.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(fstat.o)
+ .gnu.warning._fstat
+                0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(fstat.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(getpid.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(getpid.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(getpid.o)
+ .gnu.warning._getpid
+                0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(getpid.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(isatty.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(isatty.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(isatty.o)
+ .gnu.warning._isatty
+                0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(isatty.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(kill.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(kill.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(kill.o)
+ .gnu.warning._kill
+                0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(kill.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(lseek.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(lseek.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(lseek.o)
+ .gnu.warning._lseek
+                0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(lseek.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(read.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(read.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(read.o)
+ .gnu.warning._read
+                0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(read.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(write.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(write.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(write.o)
+ .gnu.warning._write
+                0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(write.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .text          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+ .data          0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+ .bss           0x00000000        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00100000         xr
+EXTFLASH         0x10000000         0x08000000         xr
+RAM              0x20000000         0x00040000         xrw
+RAM1             0x20040000         0x0003f000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o
+LOAD H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+LOAD H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+LOAD H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+LOAD H:/Lab1/nrfx/src/sample/../../build/main.c.o
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libm.a
+START GROUP
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libg_nano.a
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a
+END GROUP
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+START GROUP
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc.a
+LOAD C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a
+END GROUP
+                0x00000000                        . = ALIGN (ORIGIN (FLASH), 0x4)
+
+.vectors        0x00000000      0x400
+                0x00000000                        __vectors_start = .
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x400 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+                0x00000000                __isr_vector
+ *(.vectors)
+                0x00000400                        __vectors_size = SIZEOF (.vectors)
+                0x00000400                        __vectors_end = (__vectors_start + __vectors_size)
+                0x00000001                        ASSERT (((__vectors_start == __vectors_end) || ((__vectors_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .vectors is too large to fit in FLASH memory segment)
+                0x00000400                        . = ALIGN (0x4)
+
+.ctors          0x00000400        0x0
+                0x00000400                        __ctors_start = .
+                0x00000400                        __CTOR_LIST__ = .
+ *crtbegin*.o(.ctors)
+ *(EXCLUDE_FILE(*crtend*.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x00000400                        __CTOR_END__ = .
+                0x00000000                        __ctors_size = SIZEOF (.ctors)
+                0x00000400                        __ctors_end = (__ctors_start + __ctors_size)
+                0x00000001                        ASSERT (((__ctors_start == __ctors_end) || ((__ctors_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .ctors is too large to fit in FLASH memory segment)
+                0x00000400                        . = ALIGN (0x4)
+
+.dtors          0x00000400        0x0
+                0x00000400                        __dtors_start = .
+                0x00000400                        __DTOR_LIST__ = .
+ *crtbegin*.o(.dtors)
+ *(EXCLUDE_FILE(*crtend*.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x00000400                        __DTOR_END__ = .
+                0x00000000                        __dtors_size = SIZEOF (.dtors)
+                0x00000400                        __dtors_end = (__dtors_start + __dtors_size)
+                0x00000001                        ASSERT (((__dtors_start == __dtors_end) || ((__dtors_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .dtors is too large to fit in FLASH memory segment)
+                0x00000400                        . = ALIGN (0x4)
+
+.rodata         0x00000400      0x13c
+                0x00000400                        . = ALIGN (0x4)
+                0x00000400                        __rodata_start = .
+ *(.rodata*)
+ .rodata        0x00000400       0x5d H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .rodata.srand.str1.1
+                0x0000045d       0xdf C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o)
+                                 0x70 (size before relaxing)
+ .rodata.__assert_func.str1.1
+                0x0000053c       0x3d C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o)
+ .rodata._svfprintf_r.str1.1
+                0x0000053c       0x11 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .rodata._printf_i.str1.1
+                0x0000053c       0x22 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .rodata._vfprintf_r.str1.1
+                0x0000053c       0x11 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ *(.srodata .srodata.*)
+                0x0000013c                        __rodata_size = SIZEOF (.rodata)
+                0x0000053c                        __rodata_end = (__rodata_start + __rodata_size)
+                0x00000001                        ASSERT (((__rodata_start == __rodata_end) || ((__rodata_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .rodata is too large to fit in FLASH memory segment)
+
+.ARM.exidx      0x0000053c        0x8
+ .ARM.exidx     0x0000053c        0x8 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o
+                                 0x10 (size before relaxing)
+ .ARM.exidx     0x00000544        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-strlen.o)
+                                  0x8 (size before relaxing)
+                0x00000544                        . = ALIGN (0x4)
+
+.text           0x00000544     0x2d04
+                0x00000544                        __text_start = .
+ *(.startup)
+ *(.startup*)
+ *(.text*)
+ .text.deregister_tm_clones
+                0x00000544       0x1c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x00000560       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x00000588       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x000005b0       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text          0x000005d4       0x7c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o
+                0x000005d4                _stack_init
+                0x000005dc                _start
+                0x000005dc                _mainCRTStartup
+ .text          0x00000650       0x88 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+                0x00000650                Reset_Handler
+                0x000006c0                NMI_Handler
+                0x000006c2                HardFault_Handler
+                0x000006c4                MemoryManagement_Handler
+                0x000006c6                BusFault_Handler
+                0x000006c8                UsageFault_Handler
+                0x000006ca                SecureFault_Handler
+                0x000006cc                SVC_Handler
+                0x000006ce                DebugMon_Handler
+                0x000006d0                PendSV_Handler
+                0x000006d2                SysTick_Handler
+                0x000006d4                WDT0_IRQHandler
+                0x000006d4                I2S0_IRQHandler
+                0x000006d4                IPC_IRQHandler
+                0x000006d4                RTC0_IRQHandler
+                0x000006d4                PWM3_IRQHandler
+                0x000006d4                SERIAL3_IRQHandler
+                0x000006d4                FPU_IRQHandler
+                0x000006d4                USBD_IRQHandler
+                0x000006d4                SERIAL2_IRQHandler
+                0x000006d4                EGU3_IRQHandler
+                0x000006d4                KMU_IRQHandler
+                0x000006d4                CRYPTOCELL_IRQHandler
+                0x000006d4                EGU2_IRQHandler
+                0x000006d4                SPIM4_IRQHandler
+                0x000006d4                QDEC1_IRQHandler
+                0x000006d4                CACHE_IRQHandler
+                0x000006d4                EGU4_IRQHandler
+                0x000006d4                SPU_IRQHandler
+                0x000006d4                EGU0_IRQHandler
+                0x000006d4                GPIOTE1_IRQHandler
+                0x000006d4                TIMER1_IRQHandler
+                0x000006d4                PWM2_IRQHandler
+                0x000006d4                PWM1_IRQHandler
+                0x000006d4                Default_Handler
+                0x000006d4                EGU1_IRQHandler
+                0x000006d4                EGU5_IRQHandler
+                0x000006d4                SAADC_IRQHandler
+                0x000006d4                GPIOTE0_IRQHandler
+                0x000006d4                SERIAL1_IRQHandler
+                0x000006d4                QDEC0_IRQHandler
+                0x000006d4                PWM0_IRQHandler
+                0x000006d4                RTC1_IRQHandler
+                0x000006d4                SERIAL0_IRQHandler
+                0x000006d4                USBREGULATOR_IRQHandler
+                0x000006d4                NFCT_IRQHandler
+                0x000006d4                WDT1_IRQHandler
+                0x000006d4                TIMER0_IRQHandler
+                0x000006d4                TIMER2_IRQHandler
+                0x000006d4                QSPI_IRQHandler
+                0x000006d4                COMP_LPCOMP_IRQHandler
+                0x000006d4                CLOCK_POWER_IRQHandler
+                0x000006d4                PDM0_IRQHandler
+ .text.nrf53_errata_42
+                0x000006d8       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_46
+                0x0000073c       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_49
+                0x000007a0       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_55
+                0x00000804       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_64
+                0x00000868       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_69
+                0x000008cc       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_97
+                0x00000930       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_140
+                0x00000994       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_errata_160
+                0x000009f8       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.nrf53_handle_approtect
+                0x00000a5c       0x2c H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .text.SystemInit
+                0x00000a88      0x224 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+                0x00000a88                SystemInit
+ .text.SystemStoreFICRNS
+                0x00000cac       0x64 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+                0x00000cac                SystemStoreFICRNS
+ .text.nrf_event_readback
+                0x00000d10       0x18 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_barrier_w
+                0x00000d28        0xe H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_barrier_r
+                0x00000d36        0xe H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_barrier_rw
+                0x00000d44        0xe H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_dma_accessible_check
+                0x00000d52       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_event_clear
+                0x00000d7a       0x2a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_event_check
+                0x00000da4       0x2a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_int_enable
+                0x00000dce       0x1e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_errorsrc_get_and_clear
+                0x00000dec       0x26 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_enable
+                0x00000e12       0x1c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_disable
+                0x00000e2e       0x1c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_txrx_pins_set
+                0x00000e4a       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_hwfc_pins_set
+                0x00000e72       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_task_trigger
+                0x00000e9a       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_configure
+                0x00000ebc       0x36 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_baudrate_set
+                0x00000ef2       0x1e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_tx_buffer_set
+                0x00000f10       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_uarte_rx_amount_get
+                0x00000f38       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_periph_configure
+                0x00000f52       0x72 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_int_init
+                0x00000fc4       0xb8 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_events_process
+                0x0000107c       0x26 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_stop
+                0x000010a2       0x60 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ *fill*         0x00001102        0x2 
+ .text.nrfy_uarte_tx_start
+                0x00001104       0x4c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_event_clear
+                0x00001150       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_errorsrc_get_and_clear
+                0x00001172       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_enable
+                0x00001194       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_disable
+                0x000011ae       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_task_trigger
+                0x000011c8       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_uarte_tx_buffer_set
+                0x000011ea       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.__nrfy_internal_uarte_event_enabled_clear
+                0x00001212       0x38 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.__nrfy_internal_uarte_event_handle
+                0x0000124a       0x6e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.__nrfy_internal_uarte_events_process
+                0x000012b8       0xf2 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ *fill*         0x000013aa        0x2 
+ .text.nrf_gpio_pin_port_decode
+                0x000013ac       0x3c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_gpio_cfg
+                0x000013e8       0x7c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_gpio_cfg_output
+                0x00001464       0x24 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_gpio_cfg_input
+                0x00001488       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_gpio_pin_set
+                0x000014b0       0x2a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_gpio_port_out_set
+                0x000014da       0x1c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrf_gpio_pin_port_number_extract
+                0x000014f6       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_gpio_cfg_output
+                0x0000151e       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_gpio_cfg_input
+                0x00001538       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.nrfy_gpio_pin_set
+                0x0000155a       0x1a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.uarte_configure
+                0x00001574      0x138 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .text.apply_workaround_for_enable_anomaly
+                0x000016ac       0x8e H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ *fill*         0x0000173a        0x2 
+ .text.nrfx_uarte_init
+                0x0000173c       0xb4 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+                0x0000173c                nrfx_uarte_init
+ .text.nrfx_uarte_tx
+                0x000017f0       0xf8 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+                0x000017f0                nrfx_uarte_tx
+ .text.nrfx_uarte_tx_in_progress
+                0x000018e8       0x38 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+                0x000018e8                nrfx_uarte_tx_in_progress
+ .text.nrf_gpio_pin_port_decode
+                0x00001920       0x3c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_cfg
+                0x0000195c       0x7c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_cfg_output
+                0x000019d8       0x24 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_cfg_input
+                0x000019fc       0x28 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_pin_set
+                0x00001a24       0x2a H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_pin_clear
+                0x00001a4e       0x2a H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_pin_write
+                0x00001a78       0x26 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_pin_read
+                0x00001a9e       0x2c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_port_in_read
+                0x00001aca       0x18 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_port_out_set
+                0x00001ae2       0x1c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_port_out_clear
+                0x00001afe       0x1c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .text.nrf_gpio_pin_port_number_extract
+                0x00001b1a       0x28 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ *fill*         0x00001b42        0x2 
+ .text.uarte_write
+                0x00001b44       0x24 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+                0x00001b44                uarte_write
+ .text.wait_for_button_press
+                0x00001b68       0x46 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+                0x00001b68                wait_for_button_press
+ *fill*         0x00001bae        0x2 
+ .text.main     0x00001bb0      0x19c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+                0x00001bb0                main
+ .text.exit     0x00001d4c       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+                0x00001d4c                exit
+ .text.srand    0x00001d70       0x5c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o)
+                0x00001d70                srand
+ .text.rand     0x00001dcc       0x7c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o)
+                0x00001dcc                rand
+ .text.std      0x00001e48       0x6c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00001eb4       0x18 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00001ecc       0x40 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00001f0c       0x3c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00001f48        0xc C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00001f48                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x00001f54        0xc C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00001f54                __sfp_lock_release
+ .text.__sinit  0x00001f60       0x30 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x00001f60                __sinit
+ .text._fwalk_sglue
+                0x00001f90       0x3c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+                0x00001f90                _fwalk_sglue
+ .text.sprintf  0x00001fcc       0x40 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+                0x00001fcc                siprintf
+                0x00001fcc                sprintf
+ .text.__sread  0x0000200c       0x22 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x0000200c                __sread
+ .text.__swrite
+                0x0000202e       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x0000202e                __swrite
+ .text.__sseek  0x00002066       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x00002066                __sseek
+ .text.__sclose
+                0x0000208a        0x8 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+                0x0000208a                __sclose
+ .text.memset   0x00002092       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+                0x00002092                memset
+ *fill*         0x000020a2        0x2 
+ .text._close_r
+                0x000020a4       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+                0x000020a4                _close_r
+ .text._lseek_r
+                0x000020c4       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+                0x000020c4                _lseek_r
+ .text._read_r  0x000020e8       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+                0x000020e8                _read_r
+ .text._write_r
+                0x0000210c       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+                0x0000210c                _write_r
+ .text.__libc_init_array
+                0x00002130       0x48 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+                0x00002130                __libc_init_array
+ .text.__retarget_lock_init_recursive
+                0x00002178        0x2 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x00002178                __retarget_lock_init_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x0000217a        0x2 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x0000217a                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000217c        0x2 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x0000217c                __retarget_lock_release_recursive
+ .text          0x0000217e       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-strlen.o)
+                0x0000217e                strlen
+ *fill*         0x0000218e        0x2 
+ .text.__assert_func
+                0x00002190       0x3c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o)
+                0x00002190                __assert_func
+ .text._free_r  0x000021cc       0x94 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+                0x000021cc                _free_r
+ .text.malloc   0x00002260       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-malloc.o)
+                0x00002260                malloc
+ .text.sbrk_aligned
+                0x00002270       0x44 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x000022b4      0x100 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x000022b4                _malloc_r
+ .text.__malloc_lock
+                0x000023b4        0xc C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x000023b4                __malloc_lock
+ .text.__malloc_unlock
+                0x000023c0        0xc C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+                0x000023c0                __malloc_unlock
+ .text.__ssputs_r
+                0x000023cc       0xb6 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                0x000023cc                __ssputs_r
+ *fill*         0x00002482        0x2 
+ .text._svfprintf_r
+                0x00002484      0x1f8 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+                0x00002484                _svfiprintf_r
+                0x00002484                _svfprintf_r
+ .text._printf_common
+                0x0000267c       0xe4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x0000267c                _printf_common
+ .text._printf_i
+                0x00002760      0x23c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+                0x00002760                _printf_i
+ .text.__sflush_r
+                0x0000299c      0x108 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+                0x0000299c                __sflush_r
+ .text._fflush_r
+                0x00002aa4       0x50 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+                0x00002aa4                _fflush_r
+ .text.fprintf  0x00002af4       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fprintf.o)
+                0x00002af4                fiprintf
+                0x00002af4                fprintf
+ .text.memmove  0x00002b18       0x34 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+                0x00002b18                memmove
+ .text._sbrk_r  0x00002b4c       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+                0x00002b4c                _sbrk_r
+ .text.memchr   0x00002b6c       0x1c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+                0x00002b6c                memchr
+ .text.memcpy   0x00002b88       0x1a C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+                0x00002b88                memcpy
+ .text.abort    0x00002ba2        0xe C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-abort.o)
+                0x00002ba2                abort
+ .text._realloc_r
+                0x00002bb0       0x5c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+                0x00002bb0                _realloc_r
+ .text.__sfputc_r
+                0x00002c0c       0x2e C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x00002c3a       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x00002c3a                __sfputs_r
+ *fill*         0x00002c5e        0x2 
+ .text._vfprintf_r
+                0x00002c60      0x230 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+                0x00002c60                _vfprintf_r
+                0x00002c60                _vfiprintf_r
+ .text.__swbuf_r
+                0x00002e90       0x7c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wbuf.o)
+                0x00002e90                __swbuf_r
+ .text.__swsetup_r
+                0x00002f0c       0xac C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wsetup.o)
+                0x00002f0c                __swsetup_r
+ .text._raise_r
+                0x00002fb8       0x50 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+                0x00002fb8                _raise_r
+ .text.raise    0x00003008       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+                0x00003008                raise
+ .text._kill_r  0x00003018       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o)
+                0x00003018                _kill_r
+ .text._getpid_r
+                0x0000303c        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o)
+                0x0000303c                _getpid_r
+ .text._malloc_usable_size_r
+                0x00003040       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+                0x00003040                _malloc_usable_size_r
+ .text.__swhatbuf_r
+                0x00003050       0x4a C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o)
+                0x00003050                __swhatbuf_r
+ .text.__smakebuf_r
+                0x0000309a       0x78 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o)
+                0x0000309a                __smakebuf_r
+ *fill*         0x00003112        0x2 
+ .text._fstat_r
+                0x00003114       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fstatr.o)
+                0x00003114                _fstat_r
+ .text._isatty_r
+                0x00003138       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-isattyr.o)
+                0x00003138                _isatty_r
+ .text._close   0x00003158       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(close.o)
+                0x00003158                _close
+ .text._fstat   0x00003168       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(fstat.o)
+                0x00003168                _fstat
+ .text._getpid  0x00003178       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(getpid.o)
+                0x00003178                _getpid
+ .text._isatty  0x00003188       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(isatty.o)
+                0x00003188                _isatty
+ .text._kill    0x00003198       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(kill.o)
+                0x00003198                _kill
+ .text._lseek   0x000031a8       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(lseek.o)
+                0x000031a8                _lseek
+ .text._read    0x000031b8       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(read.o)
+                0x000031b8                _read
+ .text._sbrk    0x000031c8       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+                0x000031c8                _sbrk
+ .text._write   0x000031e8       0x10 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(write.o)
+                0x000031e8                _write
+ .text._exit    0x000031f8        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+                0x000031f8                _exit
+                0x000031fc                        . = ALIGN (0x4)
+ *(.init)
+ .init          0x000031fc        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+                0x000031fc                _init
+ .init          0x00003200        0x8 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x00003208                        . = ALIGN (0x4)
+                0x00003208                        __preinit_array_start = .
+ *(.preinit_array)
+                0x00003208                        __preinit_array_end = .
+                0x00003208                        . = ALIGN (0x4)
+                0x00003208                        __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x00003208        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x0000320c                        __init_array_end = .
+ *(.fini)
+ .fini          0x0000320c        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+                0x0000320c                _fini
+ .fini          0x00003210        0x8 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x00003218                        . = ALIGN (0x4)
+                0x00003218                        __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x00003218        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                0x0000321c                        __fini_array_end = .
+                0x0000321c                        . = ALIGN (0x4)
+ *(.eh_frame*)
+ .eh_frame      0x0000321c        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .eh_frame      0x0000321c       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .eh_frame      0x00003244        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+                0x00003248                        . = ALIGN (0x4)
+ *(.eh_frame_hdr)
+                0x00003248                        . = ALIGN (0x4)
+ *(.hash)
+ *(.gnu.hash)
+                0x00003248                        . = ALIGN (0x4)
+ *(.gnu_extab* .gnu.linkonce.extab.*)
+                0x00003248                        . = ALIGN (0x4)
+                0x00003248                        __exidx_start = .
+ *(.gnu_exidx* .gnu.linkonce.exidx.*)
+                0x00003248                        . = ALIGN (0x4)
+                0x00003248                        __exidx_end = .
+                0x00002d04                        __text_size = SIZEOF (.text)
+                0x00003248                        __text_end = (__text_start + __text_size)
+                0x00000001                        ASSERT (((__text_start == __text_end) || ((__text_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .text is too large to fit in FLASH memory segment)
+
+.glue_7         0x00003248        0x0
+ .glue_7        0x00003248        0x0 linker stubs
+
+.glue_7t        0x00003248        0x0
+ .glue_7t       0x00003248        0x0 linker stubs
+
+.vfp11_veneer   0x00003248        0x0
+ .vfp11_veneer  0x00003248        0x0 linker stubs
+
+.v4_bx          0x00003248        0x0
+ .v4_bx         0x00003248        0x0 linker stubs
+
+.iplt           0x00003248        0x0
+ .iplt          0x00003248        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.rel.dyn        0x00003248        0x0
+ .rel.iplt      0x00003248        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x00003248                        . = ALIGN (0x4)
+
+.copy.table     0x00003248       0x30
+                0x00003248                        __copy_table_start__ = .
+                0x00003248        0x4 LONG 0x3290 __data_load_start
+                0x0000324c        0x4 LONG 0x20000000 __data_start
+                0x00003250        0x4 LONG 0x19 ((__data_end - __data_start) / 0x4)
+                0x00003254        0x4 LONG 0x32f4 __sdata_load_start
+                0x00003258        0x4 LONG 0x20000064 __sdata_start
+                0x0000325c        0x4 LONG 0x0 ((__sdata_end - __sdata_start) / 0x4)
+                0x00003260        0x4 LONG 0x32f4 __tdata_load_start
+                0x00003264        0x4 LONG 0x20000064 __tdata_start
+                0x00003268        0x4 LONG 0x0 ((__tdata_end - __tdata_start) / 0x4)
+                0x0000326c        0x4 LONG 0x32f4 __fast_load_start
+                0x00003270        0x4 LONG 0x20000064 __fast_start
+                0x00003274        0x4 LONG 0x0 ((__fast_end - __fast_start) / 0x4)
+                0x00003278                        __copy_table_end__ = .
+                0x00003278                        . = ALIGN (0x4)
+
+.zero.table     0x00003278       0x18
+                0x00003278                        __zero_table_start__ = .
+                0x00003278        0x4 LONG 0x20000064 __bss_start
+                0x0000327c        0x4 LONG 0x64 ((__bss_end - __bss_start) / 0x4)
+                0x00003280        0x4 LONG 0x200001f4 __sbss_start
+                0x00003284        0x4 LONG 0x0 ((__sbss_end - __sbss_start) / 0x4)
+                0x00003288        0x4 LONG 0x200001f4 __tbss_start
+                0x0000328c        0x4 LONG 0x0 ((__tbss_end - __tbss_start) / 0x4)
+                0x00003290                        __zero_table_end__ = .
+                0x00003290                        . = ALIGN (0x4)
+                0x00003290                        __etext = .
+                [!provide]                        PROVIDE (etext = .)
+                0x00003290                        PROVIDE (_etext = .)
+                0x00003290                        . = ALIGN (0x4)
+                0x00003290                        __all_data_load_start = .
+                0x00003290                        __data_load_start = .
+
+.data           0x20000000       0x64 load address 0x00003290
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        __data_start = .
+                0x20000000                        __data_start__ = .
+ *(vtable)
+ *(.data* .gnu.linkonce.d.*)
+ .data.instance
+                0x20000000        0x8 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+                0x20000000                instance
+ .data.__sglue  0x20000008        0xc C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x20000008                __sglue
+ .data._impure_ptr
+                0x20000014        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x20000014                _impure_ptr
+ .data._impure_data
+                0x20000018       0x4c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+                0x20000018                _impure_data
+                0x20000064                        . = ALIGN (0x4)
+ *(.jcr*)
+                0x00000064                        __data_size = SIZEOF (.data)
+                0x20000064                        __data_end = (__data_start + __data_size)
+                0x20000064                        __data_end__ = __data_end
+                0x000032f4                        __data_load_end = (__data_load_start + __data_size)
+                0x00000001                        ASSERT (((__data_load_start == __data_load_end) || ((__data_load_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .data is too large to fit in FLASH memory segment)
+                0x00000001                        ASSERT (((__data_start == __data_end) || ((__data_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .data is too large to fit in RAM memory segment)
+
+.tm_clone_table
+                0x20000064        0x0 load address 0x000032f4
+ .tm_clone_table
+                0x20000064        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x20000064        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+
+.igot.plt       0x20000064        0x0 load address 0x000032f4
+ .igot.plt      0x20000064        0x0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x20000064                        . = ALIGN (0x4)
+                0x000032f4                        __sdata_load_start = ALIGN (__data_load_end, 0x4)
+
+.sdata          0x20000064        0x0 load address 0x000032f4
+                0x20000064                        . = ALIGN (0x4)
+                0x20000064                        __sdata_start = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x00000000                        __sdata_size = SIZEOF (.sdata)
+                0x20000064                        __sdata_end = (__sdata_start + __sdata_size)
+                0x000032f4                        __sdata_load_end = (__sdata_load_start + __sdata_size)
+                0x00000001                        ASSERT (((__sdata_load_start == __sdata_load_end) || ((__sdata_load_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .sdata is too large to fit in FLASH memory segment)
+                0x00000001                        ASSERT (((__sdata_start == __sdata_end) || ((__sdata_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .sdata is too large to fit in RAM memory segment)
+                0x20000064                        . = ALIGN (0x4)
+                0x000032f4                        __tdata_load_start = ALIGN (__sdata_load_end, 0x4)
+
+.tdata          0x20000064        0x0 load address 0x000032f4
+                0x20000064                        . = ALIGN (0x4)
+                0x20000064                        __tdata_start = .
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+ *(.stdata .stdata.*)
+                0x00000000                        __tdata_size = SIZEOF (.tdata)
+                0x20000064                        __tdata_end = (__tdata_start + __tdata_size)
+                0x000032f4                        __tdata_load_end = (__tdata_load_start + __tdata_size)
+                0x00000001                        ASSERT (((__tdata_load_start == __tdata_load_end) || ((__tdata_load_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .tdata is too large to fit in FLASH memory segment)
+                0x00000001                        ASSERT (((__tdata_start == __tdata_end) || ((__tdata_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .tdata is too large to fit in RAM memory segment)
+                0x20000064                        . = ALIGN (0x4)
+                0x000032f4                        __fast_load_start = ALIGN (__tdata_load_end, 0x4)
+
+.fast           0x20000064        0x0 load address 0x000032f4
+                0x20000064                        . = ALIGN (0x4)
+                0x20000064                        __fast_start = .
+ *(.fast .fast.*)
+ *(.fastcode .fastcode.*)
+ *(.fastdata .fastdata.*)
+ *(.ramcode*)
+                0x00000000                        __fast_size = SIZEOF (.fast)
+                0x20000064                        __fast_end = (__fast_start + __fast_size)
+                0x000032f4                        __fast_load_end = (__fast_load_start + __fast_size)
+                0x00000001                        ASSERT (((__fast_load_start == __fast_load_end) || ((__fast_load_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .fast is too large to fit in FLASH memory segment)
+                0x00000001                        ASSERT (((__fast_start == __fast_end) || ((__fast_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .fast is too large to fit in RAM memory segment)
+                0x20000064                        . = ALIGN (0x4)
+                0x20000064                        _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                [!provide]                        PROVIDE (__edata = .)
+                0x20000064                        . = ALIGN (0x4)
+
+.noinit         0x20000064        0x0
+                0x20000064                        __noinit_start = .
+                [!provide]                        PROVIDE (__noinit_start__ = .)
+ *(.noinit .noinit.*)
+ *(.no_init .no_init.*)
+ *(.noninit .noninit.*)
+ *(.non_init .non_init.*)
+                0x20000064                        . = ALIGN (0x4)
+                0x00000000                        __noinit_size = SIZEOF (.noinit)
+                0x20000064                        __noinit_end = (__noinit_start + __noinit_size)
+                0x20000064                        __noinit_end__ = __noinit_end
+                0x00000001                        ASSERT (((__noinit_start == __noinit_end) || ((__noinit_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .noinit is too large to fit in RAM memory segment)
+                0x20000064                        . = ALIGN (0x4)
+
+.bss            0x20000064      0x190 load address 0x000032f4
+                0x20000064                        __bss_start = .
+                0x20000064                        PROVIDE (__bss_start__ = .)
+ *(.bss* .gnu.linkonce.b.*)
+ .bss.completed.1
+                0x20000064        0x1 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ *fill*         0x20000065        0x3 
+ .bss.object.0  0x20000068       0x18 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss.m_cb      0x20000080       0x24 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .bss.__sf      0x200000a4      0x138 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x200000a4                __sf
+ .bss.__stdio_exit_handler
+                0x200001dc        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+                0x200001dc                __stdio_exit_handler
+ .bss.errno     0x200001e0        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+                0x200001e0                errno
+ .bss.__lock___malloc_recursive_mutex
+                0x200001e4        0x1 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x200001e4                __lock___malloc_recursive_mutex
+ .bss.__lock___sfp_recursive_mutex
+                0x200001e5        0x1 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+                0x200001e5                __lock___sfp_recursive_mutex
+ *fill*         0x200001e6        0x2 
+ .bss.__malloc_sbrk_start
+                0x200001e8        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x200001e8                __malloc_sbrk_start
+ .bss.__malloc_free_list
+                0x200001ec        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+                0x200001ec                __malloc_free_list
+ .bss.heap_end.0
+                0x200001f0        0x4 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ *(.dynbss)
+ *(COMMON)
+                0x200001f4                        . = ALIGN (0x4)
+                0x00000190                        __bss_size = SIZEOF (.bss)
+                0x200001f4                        __bss_end = (__bss_start + __bss_size)
+                0x200001f4                        __bss_end__ = __bss_end
+                0x00000001                        ASSERT (((__bss_start == __bss_end) || ((__bss_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .bss is too large to fit in RAM memory segment)
+                0x200001f4                        . = ALIGN (0x4)
+
+.sbss           0x200001f4        0x0
+                0x200001f4                        __sbss_start = .
+                0x200001f4                        __sbss_start__ = __sbss_start
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.dynsbss)
+                0x200001f4                        . = ALIGN (0x4)
+                0x00000000                        __sbss_size = SIZEOF (.sbss)
+                0x200001f4                        __sbss_end = (__sbss_start + __sbss_size)
+                0x200001f4                        __sbss_end__ = __sbss_end
+                0x00000001                        ASSERT (((__sbss_start == __sbss_end) || ((__sbss_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .sbss is too large to fit in RAM memory segment)
+                0x200001f4                        . = ALIGN (0x4)
+
+.tbss           0x200001f4        0x0
+                0x200001f4                        __tbss_start = .
+                0x200001f4                        __tbss_start__ = __tbss_start
+                0x200001f4                        . = ALIGN (0x4)
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+ *(.stbss .stbss.*)
+                0x200001f4                        . = ALIGN (0x4)
+                0x00000000                        __tbss_size = SIZEOF (.tbss)
+                0x200001f4                        __tbss_end = (__tbss_start + __tbss_size)
+                0x200001f4                        __tbss_end__ = __tbss_end
+                0x00000001                        ASSERT (((__tbss_start == __tbss_end) || ((__tbss_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .tbss is too large to fit in RAM memory segment)
+                0x200001f4                        . = ALIGN (0x4)
+                0x200001f4                        . = SEGMENT_START ("ldata-segment", .)
+                0x200001f4                        . = ALIGN (0x4)
+
+.heap           0x200001f4     0x4004
+                0x200001f4                        __heap_start = .
+                0x200001f4                        __HeapBase = .
+                0x200001f4                        __heap_base = .
+                0x200001f4                        __end = .
+                0x200001f4                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                [!provide]                        PROVIDE (__end__ = .)
+ *(.heap*)
+ *fill*         0x200001f4        0x4 
+ .heap          0x200001f8     0x4000 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+                0x200041f8                        __HeapLimit = .
+                0x200041f8                        __heap_limit = .
+                0x200041f8                        __heap_end = .
+
+.stack_dummy    0x200001f8     0x4000
+ *(.stack*)
+ .stack         0x200001f8     0x4000 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+                0x20040000                        __stack_end = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20040000                        __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x2003c000                        __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20040000                        PROVIDE (__stack = __StackTop)
+                0x00000001                        ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x00000064                        DataInitFlashUsed = (__bss_start - __data_start)
+                0x00003290                        CodeFlashUsed = (_etext - ORIGIN (FLASH))
+                0x000032f4                        TotalFlashUsed = (CodeFlashUsed + DataInitFlashUsed)
+                0x00000001                        ASSERT ((TotalFlashUsed <= LENGTH (FLASH)), region FLASH overflowed with .data and user data)
+OUTPUT(H:/Lab1/nrfx/src/sample/../../build/nrf_test1.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x36
+ .ARM.attributes
+                0x00000000       0x26 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crti.o
+ .ARM.attributes
+                0x00000026       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000005e       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000082       0x24 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+ .ARM.attributes
+                0x000000a6       0x3a H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .ARM.attributes
+                0x000000e0       0x3a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .ARM.attributes
+                0x0000011a       0x3a H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .ARM.attributes
+                0x00000154       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x0000018c       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o)
+ .ARM.attributes
+                0x000001c4       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x000001fc       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000234       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .ARM.attributes
+                0x0000026c       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x000002a4       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x000002dc       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000314       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x0000034c       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000384       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x000003bc       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x000003f4       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x0000042c       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000464       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x0000049c       0x24 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-strlen.o)
+ .ARM.attributes
+                0x000004c0       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o)
+ .ARM.attributes
+                0x000004f8       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000530       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .ARM.attributes
+                0x00000568       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x000005a0       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x000005d8       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000610       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000648       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000680       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fprintf.o)
+ .ARM.attributes
+                0x000006b8       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .ARM.attributes
+                0x000006f0       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000728       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000760       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000798       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-abort.o)
+ .ARM.attributes
+                0x000007d0       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .ARM.attributes
+                0x00000808       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x00000840       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .ARM.attributes
+                0x00000878       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .ARM.attributes
+                0x000008b0       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .ARM.attributes
+                0x000008e8       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o)
+ .ARM.attributes
+                0x00000920       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .ARM.attributes
+                0x00000958       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .ARM.attributes
+                0x00000990       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .ARM.attributes
+                0x000009c8       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .ARM.attributes
+                0x00000a00       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(close.o)
+ .ARM.attributes
+                0x00000a38       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(fstat.o)
+ .ARM.attributes
+                0x00000a70       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(getpid.o)
+ .ARM.attributes
+                0x00000aa8       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(isatty.o)
+ .ARM.attributes
+                0x00000ae0       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(kill.o)
+ .ARM.attributes
+                0x00000b18       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(lseek.o)
+ .ARM.attributes
+                0x00000b50       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(read.o)
+ .ARM.attributes
+                0x00000b88       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000bc0       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(write.o)
+ .ARM.attributes
+                0x00000bf8       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000c30       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000c68       0x26 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crtn.o
+
+.comment        0x00000000       0x44
+ .comment       0x00000000       0x44 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+                                 0x45 (size before relaxing)
+ .comment       0x00000044       0x45 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .comment       0x00000044       0x45 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+
+.debug_line_str
+                0x00000000      0x214
+ .debug_line_str
+                0x00000000      0x214 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard/crt0.o
+                                 0xda (size before relaxing)
+ .debug_line_str
+                0x00000214       0x4b H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+ .debug_line_str
+                0x00000214       0xef C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-strlen.o)
+
+.debug_line     0x00000000     0x36a6
+ .debug_line    0x00000000       0x84 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+ .debug_line    0x00000084     0x197f H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_line    0x00001a03     0x148f H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_line    0x00002e92      0x814 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+
+.debug_info     0x00000000     0x6727
+ .debug_info    0x00000000      0x2d8 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+ .debug_info    0x000002d8     0x2c1d H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_info    0x00002ef5     0x245c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_info    0x00005351     0x13d6 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+
+.debug_abbrev   0x00000000      0x9a8
+ .debug_abbrev  0x00000000       0x28 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+ .debug_abbrev  0x00000028      0x251 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_abbrev  0x00000279      0x3bc H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_abbrev  0x00000635      0x373 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+
+.debug_aranges  0x00000000      0x708
+ .debug_aranges
+                0x00000000       0x20 H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+ .debug_aranges
+                0x00000020      0x398 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_aranges
+                0x000003b8      0x2c0 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_aranges
+                0x00000678       0x90 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+
+.debug_str      0x00000000    0x97d8b
+ .debug_str     0x00000000    0x97d8b H:/Lab1/nrfx/src/sample/../../build/gcc_startup_nrf5340_application.S.o
+                                0x3e7 (size before relaxing)
+ .debug_str     0x00097d8b    0x845bd H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_str     0x00097d8b    0x94d63 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_str     0x00097d8b    0x94523 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+
+.debug_rnglists
+                0x00000000      0x52c
+ .debug_rnglists
+                0x00000000      0x2ae H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_rnglists
+                0x000002ae      0x216 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_rnglists
+                0x000004c4       0x68 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+
+.debug_macro    0x00000000    0x18785
+ .debug_macro   0x00000000      0x16a H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x0000016a      0xaf0 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00000c5a       0x22 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00000c7c       0x56 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00000cd2       0x51 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00000d23      0x103 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00000e26       0x6a H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00000e90      0x1df H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x0000106f       0x22 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00001091       0x2e H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x000010bf       0x50 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x0000110f       0x1c H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x0000112b       0x29 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00001154       0xfb H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x0000124f     0x1685 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x000028d4       0x5e H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00002932      0x7ba H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x000030ec    0x1248c H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00015578       0x52 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x000155ca       0x12 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x000155dc       0x6a H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00015646      0x44e H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00015a94      0x5e4 H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_macro   0x00016078      0x2cd H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016345       0x1c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016361      0x5f9 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x0001695a      0x189 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016ae3       0x7b H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016b5e       0x2a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016b88       0x3c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016bc4       0x34 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016bf8      0x38c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016f84       0x16 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016f9a       0x4a H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00016fe4       0x34 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00017018       0x10 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00017028       0x58 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00017080      0x1de H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x0001725e       0x10 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x0001726e       0x3c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x000172aa       0x7c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00017326       0x17 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x0001733d       0xee H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x0001742b      0xa39 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00017e64       0x64 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00017ec8      0x10f H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00017fd7       0xf7 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x000180ce       0x34 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00018102       0x4c H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x0001814e       0x16 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00018164       0x22 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00018186       0x17 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x0001819d       0x28 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x000181c5       0x7b H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00018240       0x41 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_macro   0x00018281      0x34a H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x000185cb       0x16 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x000185e1       0x22 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00018603       0x1c H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x0001861f       0x10 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x0001862f       0x16 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x00018645       0x16 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_macro   0x0001865b      0x12a H:/Lab1/nrfx/src/sample/../../build/main.c.o
+
+.debug_frame    0x00000000     0x2c10
+ .debug_frame   0x00000000     0x10bc H:/Lab1/nrfx/src/sample/../../build/system_nrf5340_application.c.o
+ .debug_frame   0x000010bc      0xc58 H:/Lab1/nrfx/src/sample/../../build/nrfx_uarte.c.o
+ .debug_frame   0x00001d14      0x234 H:/Lab1/nrfx/src/sample/../../build/main.c.o
+ .debug_frame   0x00001f48       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x00001f70       0x44 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-rand.o)
+ .debug_frame   0x00001fb4      0x144 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x000020f8       0x34 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x0000212c       0x6c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sprintf.o)
+ .debug_frame   0x00002198       0x88 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00002220       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00002240       0x2c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x0000226c       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x000022a4       0x2c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x000022d0       0x2c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x000022fc       0x2c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00002328       0x2c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-init.o)
+ .debug_frame   0x00002354       0xb0 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00002404       0x40 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-assert.o)
+ .debug_frame   0x00002444       0x38 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x0000247c       0x30 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-malloc.o)
+ .debug_frame   0x000024ac       0x50 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x000024fc       0x30 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x0000252c       0x90 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-svfprintf.o)
+ .debug_frame   0x000025bc       0x60 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf_i.o)
+ .debug_frame   0x0000261c       0x5c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00002678       0x64 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fprintf.o)
+ .debug_frame   0x000026dc       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memmove.o)
+ .debug_frame   0x00002704       0x2c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00002730       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memchr-stub.o)
+ .debug_frame   0x00002758       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00002780       0x28 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-abort.o)
+ .debug_frame   0x000027a8       0x3c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-reallocr.o)
+ .debug_frame   0x000027e4       0xa8 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-nano-vfprintf.o)
+ .debug_frame   0x0000288c       0x40 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wbuf.o)
+ .debug_frame   0x000028cc       0x2c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-wsetup.o)
+ .debug_frame   0x000028f8       0xcc C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signal.o)
+ .debug_frame   0x000029c4       0x3c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-signalr.o)
+ .debug_frame   0x00002a00       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-msizer.o)
+ .debug_frame   0x00002a20       0x58 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-makebuf.o)
+ .debug_frame   0x00002a78       0x2c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-fstatr.o)
+ .debug_frame   0x00002aa4       0x2c C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libc_nano.a(libc_a-isattyr.o)
+ .debug_frame   0x00002ad0       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(close.o)
+ .debug_frame   0x00002af0       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(fstat.o)
+ .debug_frame   0x00002b10       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(getpid.o)
+ .debug_frame   0x00002b30       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(isatty.o)
+ .debug_frame   0x00002b50       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(kill.o)
+ .debug_frame   0x00002b70       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(lseek.o)
+ .debug_frame   0x00002b90       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(read.o)
+ .debug_frame   0x00002bb0       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x00002bd0       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(write.o)
+ .debug_frame   0x00002bf0       0x20 C:/Apps/arm-toolchain/bin/../lib/gcc/arm-none-eabi/13.2.1/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
