@@ -18,8 +18,9 @@ STACK_SIZE       := 16384
 # Source filer vi behöver. De första 2 är krav och definerar variabler specifika för vårt kort.
 SRC_FILES        += $(PROJ)/mdk/gcc_startup_nrf5340_application.S
 SRC_FILES        += $(PROJ)/mdk/system_nrf5340_application.c
-SRC_FILES        += $(PROJ)/drivers/src/nrfx_uarte.c
 SRC_FILES        += main.c
+SRC_FILES        += $(PROJ)/drivers/src/nrfx_uarte.c
+SRC_FILES        += $(PROJ)/drivers/src/nrfx_systick.c
 # Här kan ni länka till extra source filer ni vill använda.
 # SRC_FILES        += inte_en_riktigt_fil.c
 # Definera folders
@@ -41,6 +42,7 @@ INC_FOLDERS      += $(PROJ)/src
 INC_FOLDERS      += $(CURDIR)
 INC_FOLDERS      += $(PROJ)
 INC_FOLDERS      += $(PROJ)/helpers
+INC_FOLDERS      += $(PROJ)/templates
 CFLAGS           += -std=c99 -MP -MD -c -g3 $(OPTIMISE)
 CFLAGS           += -DBOARD_CUSTOM -DBSP_DEFINES_ONLY -DCONFIG_GPIO_AS_PINRESET -DFLOAT_ABI_HARD -DNRF5340_XXAA_APPLICATION
 CFLAGS           += -mcpu=cortex-m33 -mthumb -mabi=aapcs -Wall -mfloat-abi=hard -mfpu=fpv5-sp-d16 -ffunction-sections -fdata-sections
@@ -75,3 +77,5 @@ jflash: $(BUILD_DIR)/$(TARGET)
 clean:
 	@echo cleaning build directory
 	del /S /q ..\..\build\*
+
+
