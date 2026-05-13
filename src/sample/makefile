@@ -18,9 +18,11 @@ STACK_SIZE       := 16384
 # Source filer vi behöver. De första 2 är krav och definerar variabler specifika för vårt kort.
 SRC_FILES        += $(PROJ)/mdk/gcc_startup_nrf5340_application.S
 SRC_FILES        += $(PROJ)/mdk/system_nrf5340_application.c
-SRC_FILES        += main.c
+SRC_FILES        += $(PROJ)/drivers/src/nrfx_rtc.c
 SRC_FILES        += $(PROJ)/drivers/src/nrfx_uarte.c
 SRC_FILES        += $(PROJ)/drivers/src/nrfx_systick.c
+SRC_FILES        += $(PROJ)/src/sample/stuff.c
+SRC_FILES        += main.c
 # Här kan ni länka till extra source filer ni vill använda.
 # SRC_FILES        += inte_en_riktigt_fil.c
 # Definera folders

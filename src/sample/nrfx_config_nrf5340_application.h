@@ -895,7 +895,7 @@
  * Boolean. Accepted values 0 and 1.
  */
 #ifndef NRFX_RTC_ENABLED
-#define NRFX_RTC_ENABLED 0
+#define NRFX_RTC_ENABLED 1
 #endif
 
 /**
@@ -937,7 +937,7 @@
  * Boolean. Accepted values 0 and 1.
  */
 #ifndef NRFX_RTC0_ENABLED
-#define NRFX_RTC0_ENABLED 0
+#define NRFX_RTC0_ENABLED 1
 #endif
 
 /**
@@ -1405,7 +1405,7 @@
  * Boolean. Accepted values 0 and 1.
  */
 #ifndef NRFX_TWIS3_ENABLED
-#define NRFX_TWIS3_ENABLED 1
+#define NRFX_TWIS3_ENABLED 0
 #endif
 
 /**

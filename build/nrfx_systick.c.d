@@ -1,5 +1,5 @@
-C:/Users/wzi25001/Documents/LABFILES/src/sample/../../build/nrfx_uarte.c.o: \
- C:/Users/wzi25001/Documents/LABFILES/drivers/src/nrfx_uarte.c \
+C:/Users/wzi25001/Documents/LABFILES/src/sample/../../build/nrfx_systick.c.o: \
+ C:/Users/wzi25001/Documents/LABFILES/drivers/src/nrfx_systick.c \
  C:/Users/wzi25001/Documents/LABFILES/nrfx.h \
  C:/Users/wzi25001/Documents/LABFILES/src/sample/nrfx_config.h \
  C:/Users/wzi25001/Documents/LABFILES/src/nrfx_config_common.h \
@@ -50,13 +50,8 @@ C:/Users/wzi25001/Documents/LABFILES/src/sample/../../build/nrfx_uarte.c.o: \
  C:/Users/wzi25001/Documents/LABFILES/hal/nrf_common.h \
  C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_common.h \
  C:/Users/wzi25001/Documents/LABFILES/drivers/nrfx_errors.h \
- C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_uarte.h \
- C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_uarte.h \
- C:/Users/wzi25001/Documents/LABFILES/hal/nrf_uarte.h \
- C:/Users/wzi25001/Documents/LABFILES/drivers/src/prs/nrfx_prs.h \
- C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_gpio.h \
- C:/Users/wzi25001/Documents/LABFILES/hal/nrf_gpio.h \
- C:/Users/wzi25001/Documents/LABFILES/src/nrfx_log.h
+ C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_systick.h \
+ C:/Users/wzi25001/Documents/LABFILES/hal/nrf_systick.h
 C:/Users/wzi25001/Documents/LABFILES/nrfx.h:
 C:/Users/wzi25001/Documents/LABFILES/src/sample/nrfx_config.h:
 C:/Users/wzi25001/Documents/LABFILES/src/nrfx_config_common.h:
@@ -107,10 +102,5 @@ C:/Users/wzi25001/Documents/LABFILES/src/nrfx_glue.h:
 C:/Users/wzi25001/Documents/LABFILES/hal/nrf_common.h:
 C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_common.h:
 C:/Users/wzi25001/Documents/LABFILES/drivers/nrfx_errors.h:
-C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_uarte.h:
-C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_uarte.h:
-C:/Users/wzi25001/Documents/LABFILES/hal/nrf_uarte.h:
-C:/Users/wzi25001/Documents/LABFILES/drivers/src/prs/nrfx_prs.h:
-C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_gpio.h:
-C:/Users/wzi25001/Documents/LABFILES/hal/nrf_gpio.h:
-C:/Users/wzi25001/Documents/LABFILES/src/nrfx_log.h:
+C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_systick.h:
+C:/Users/wzi25001/Documents/LABFILES/hal/nrf_systick.h:

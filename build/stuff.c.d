@@ -1,6 +1,5 @@
-C:/Users/wzi25001/Documents/LABFILES/src/sample/../../build/nrfx_uarte.c.o: \
- C:/Users/wzi25001/Documents/LABFILES/drivers/src/nrfx_uarte.c \
- C:/Users/wzi25001/Documents/LABFILES/nrfx.h \
+C:/Users/wzi25001/Documents/LABFILES/src/sample/../../build/stuff.c.o: \
+ stuff.c stuff.h C:/Users/wzi25001/Documents/LABFILES/nrfx.h \
  C:/Users/wzi25001/Documents/LABFILES/src/sample/nrfx_config.h \
  C:/Users/wzi25001/Documents/LABFILES/src/nrfx_config_common.h \
  C:/Users/wzi25001/Documents/LABFILES/src/sample/nrfx_config_nrf5340_application.h \
@@ -50,13 +49,22 @@ C:/Users/wzi25001/Documents/LABFILES/src/sample/../../build/nrfx_uarte.c.o: \
  C:/Users/wzi25001/Documents/LABFILES/hal/nrf_common.h \
  C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_common.h \
  C:/Users/wzi25001/Documents/LABFILES/drivers/nrfx_errors.h \
+ C:/Users/wzi25001/Documents/LABFILES/mdk/nrf5340_application.h \
  C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_uarte.h \
  C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_uarte.h \
  C:/Users/wzi25001/Documents/LABFILES/hal/nrf_uarte.h \
- C:/Users/wzi25001/Documents/LABFILES/drivers/src/prs/nrfx_prs.h \
- C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_gpio.h \
+ C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_rtc.h \
+ C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_rtc.h \
+ C:/Users/wzi25001/Documents/LABFILES/hal/nrf_rtc.h \
+ C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_systick.h \
+ C:/Users/wzi25001/Documents/LABFILES/hal/nrf_systick.h \
  C:/Users/wzi25001/Documents/LABFILES/hal/nrf_gpio.h \
- C:/Users/wzi25001/Documents/LABFILES/src/nrfx_log.h
+ C:/Apps/arm-toolchain/arm-none-eabi/include/stdlib.h \
+ C:/Apps/arm-toolchain/arm-none-eabi/include/machine/stdlib.h \
+ C:/Apps/arm-toolchain/arm-none-eabi/include/stdio.h \
+ C:/Apps/arm-toolchain/lib/gcc/arm-none-eabi/13.2.1/include/stdarg.h \
+ C:/Apps/arm-toolchain/arm-none-eabi/include/sys/stdio.h
+stuff.h:
 C:/Users/wzi25001/Documents/LABFILES/nrfx.h:
 C:/Users/wzi25001/Documents/LABFILES/src/sample/nrfx_config.h:
 C:/Users/wzi25001/Documents/LABFILES/src/nrfx_config_common.h:
@@ -107,10 +115,18 @@ C:/Users/wzi25001/Documents/LABFILES/src/nrfx_glue.h:
 C:/Users/wzi25001/Documents/LABFILES/hal/nrf_common.h:
 C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_common.h:
 C:/Users/wzi25001/Documents/LABFILES/drivers/nrfx_errors.h:
+C:/Users/wzi25001/Documents/LABFILES/mdk/nrf5340_application.h:
 C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_uarte.h:
 C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_uarte.h:
 C:/Users/wzi25001/Documents/LABFILES/hal/nrf_uarte.h:
-C:/Users/wzi25001/Documents/LABFILES/drivers/src/prs/nrfx_prs.h:
-C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_gpio.h:
+C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_rtc.h:
+C:/Users/wzi25001/Documents/LABFILES/haly/nrfy_rtc.h:
+C:/Users/wzi25001/Documents/LABFILES/hal/nrf_rtc.h:
+C:/Users/wzi25001/Documents/LABFILES/drivers/include/nrfx_systick.h:
+C:/Users/wzi25001/Documents/LABFILES/hal/nrf_systick.h:
 C:/Users/wzi25001/Documents/LABFILES/hal/nrf_gpio.h:
-C:/Users/wzi25001/Documents/LABFILES/src/nrfx_log.h:
+C:/Apps/arm-toolchain/arm-none-eabi/include/stdlib.h:
+C:/Apps/arm-toolchain/arm-none-eabi/include/machine/stdlib.h:
+C:/Apps/arm-toolchain/arm-none-eabi/include/stdio.h:
+C:/Apps/arm-toolchain/lib/gcc/arm-none-eabi/13.2.1/include/stdarg.h:
+C:/Apps/arm-toolchain/arm-none-eabi/include/sys/stdio.h:
